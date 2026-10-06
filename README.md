@@ -1,9 +1,13 @@
 # 👋 Hola, soy Alexander Passo
 
-### Data Engineer | Python | SQL | AWS
+### Data Engineer | Data Science | Python | SQL | AWS
 
-Ingeniero Electrónico orientado a la Ingeniería de Datos, con experiencia
-en construcción y automatización de pipelines de datos.
+Ingeniero de datos con 2 años de experiencia en analítica y automatización de procesos en el sector
+bancario,desarrollando y optimizando procesos ETL, procesamiento de datos con Python y PySpark, SQL y
+servicios AWS, participando en soluciones orientadas a la calidad, transformación y monitoreo de
+información. Con conocimientos en Machine Learning, análisis de datos y desarrollo de soluciones basadas
+en datos. Destaco por mi capacidad de aprendizaje continuo, autogestión, resolución de problemas, trabajo
+colaborativo y adaptabilidad.
 
 ## 🛠️ Tecnologías
 
@@ -15,6 +19,7 @@ en construcción y automatización de pipelines de datos.
 - Pandas
 - Docker
 - Git
+- ADA
 
 ## 🚀 Proyectos destacados
 
@@ -31,5 +36,5 @@ predicción de contaminación atmosférica.
 
 ## 📫 Contacto
 
-- LinkedIn: [Mi LinkedIn](TU_LINK)
-- Email: TU_EMAIL
+- LinkedIn: [Mi LinkedIn](https://www.linkedin.com/in/apasso)
+- Email: alej2498@gmail.com
