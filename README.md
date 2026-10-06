@@ -2,12 +2,14 @@
 
 ### Data Engineer | Data Science | Python | SQL | AWS
 
+<p style="text-align: justify;">
 Ingeniero de datos con 2 años de experiencia en analítica y automatización de procesos en el sector
 bancario,desarrollando y optimizando procesos ETL, procesamiento de datos con Python y PySpark, SQL y
 servicios AWS, participando en soluciones orientadas a la calidad, transformación y monitoreo de
 información. Con conocimientos en Machine Learning, análisis de datos y desarrollo de soluciones basadas
 en datos. Destaco por mi capacidad de aprendizaje continuo, autogestión, resolución de problemas, trabajo
 colaborativo y adaptabilidad.
+</p>
 
 ## 🛠️ Tecnologías
 
