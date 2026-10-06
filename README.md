@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hola, soy Alexander Passo
 
-<!--
-**AlexanderPasso/AlexanderPasso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Engineer | Python | SQL | AWS
 
-Here are some ideas to get you started:
+Ingeniero Electrónico orientado a la Ingeniería de Datos, con experiencia
+en construcción y automatización de pipelines de datos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías
+
+- Python
+- SQL
+- PySpark
+- Apache Airflow
+- AWS
+- Pandas
+- Docker
+- Git
+
+## 🚀 Proyectos destacados
+
+### ⚽ Football Leagues ETL
+Pipeline ETL desarrollado con Python, Apache Airflow y Amazon S3.
+
+### 🌤️ Weather Medellín ETL
+Pipeline de datos desarrollado con Python y AWS para extraer,
+transformar y almacenar información meteorológica.
+
+### 📊 PM2.5 Prediction
+Modelos de Machine Learning utilizando XGBoost y LSTM para
+predicción de contaminación atmosférica.
+
+## 📫 Contacto
+
+- LinkedIn: [Mi LinkedIn](TU_LINK)
+- Email: TU_EMAIL
